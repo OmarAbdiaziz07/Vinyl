@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+ }
+   p { 
+    color: white;
+    font-family: "Segoe UI",Verdana,sans-serif
+ }
+   b {
+    font-size: 25px;
+    font-weight: bold;
+ }
+   img {
+    width: 500px;
+ }
+   footer {
+    text-align: center;
+ }
+   span {
+    font-weight: bold;
+ }
+   a:link {
+    color: #ef8354;
+  }
+   a:visited {
+    color: #0e7c7b;
+ }
+   a:hover {
+    color: #9c528b;
+ }
+   a:active {
+    color: white;
+ }
+
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    background-image: url(Records.jpg);
+    font-family: "Segoe UI",Verdana,sans-serif
+    bold;
+ }
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    background-color: #ef8354;
+    font-weight: bold;
+ }
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    background-color: #0e7c7b;
+    font-weight: bold;
+ }
+
+h4 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    background-color: #9c538b;
+    font-weight: bold;
+ }
+
